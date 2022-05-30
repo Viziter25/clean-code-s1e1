@@ -27,7 +27,7 @@ body {
   }
 
 }
-.element-page {
+.main-page {
 	display: block;
 	width: 500px;
 	margin: 0 auto 0;
@@ -162,11 +162,11 @@ li input[type=text] {
 	display: none;
 }
 
-.edit-mode input[type=text] {
+.task-item input[type=text] {
 	display: inline-block;
 	width: 224px;
 }
 
-.edit-mode label {
+.task-item label {
 	display: none;
 }
