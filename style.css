@@ -1,8 +1,8 @@
 /* Basic Style */
 body {
-  background-color: #f8f8f8;
-  color: #333;
-  font-family: Lato, sans-serif;
+	background-color: #f8f8f8;
+	color: #333;
+	font-family: Lato, sans-serif;
 }
 
 .header {
@@ -157,11 +157,11 @@ input[type="text"] {
 }
 
 /* Edit Task */
-li input[type=text] {
+li input[type="text"] {
 	display: none;
 }
 
-.task-item input[type=text] {
+.task-item input[type="text"] {
 	display: inline-block;
 	width: 224px;
 }
